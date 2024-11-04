@@ -6,7 +6,7 @@ Vytvořit dvě základní tabulky:<br>
 **t_{jmeno}_{prijmeni}_project_SQL_primary_final,<br> 
 t_{jmeno}_{prijmeni}_project_SQL_secondary_final**,<br>
 <br>
-ze kterých mají být získávány prostřednictvím sad SQL uískávány odpovědi na výzkumné otázky:
+ze kterých mají být získávány prostřednictvím sad SQL odpovědi na výzkumné otázky:
 1.	Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?
 2.	Kolik je možné si koupit litrů mléka a kilogramů chleba za první a poslední srovnatelné období v dostupných datech cen a mezd?
 3.	Která kategorie potravin zdražuje nejpomaleji (je u ní nejnižší percentuální meziroční nárůst)?
